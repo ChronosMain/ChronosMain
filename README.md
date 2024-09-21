@@ -21,8 +21,8 @@
 
 ### Find me here
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/825142884788994058)](https://discord.com/users/825142884788994058)
-<br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/825142884788994058)](https://discord.com/users/825142884788994058)<br>
+
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/825142884788994058)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chronosclient)
 </div>
