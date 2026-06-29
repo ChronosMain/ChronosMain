@@ -1,3 +1,2 @@
-<div align="center">
-### ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%237F52FF.svg?style=for-the-badge&logo=c++&logoColor=white)
-</div>
+Java, C++
+- mods
